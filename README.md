@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/girl-using-laptop-with-binary-code_1308-114505.jpg?w=2000">
 
-- 🔭 I’m currently working on **Portfolio Website**
+- 🔭 I’m currently working on **StudyNotion Website!**
 
 - 🌱 I’m currently learning **MongoDB, Express.js, React.js, Node.js**
 
@@ -24,6 +24,7 @@
 <a href="https://www.linkedin.com/in/kanchan-soni-641b62196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kanchan Soni" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/Kanchansoni0703?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/Kanchansoni0703?hr_r=1" height="30" width="40" /></a>
 <a href="https://leetcode.com/accounts/login/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/accounts/login/" height="30" width="40" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/kanchansoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gfg.svg" alt="https://gfg.com/accounts/login/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
